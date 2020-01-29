@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/projekus/testingnode.projeku.site"
+PassengerBaseURI "/."
+PassengerNodejs "/home/projekus/nodevenv/testingnode.projeku.site/10/bin/node"
+PassengerAppType node
+PassengerStartupFile index.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
